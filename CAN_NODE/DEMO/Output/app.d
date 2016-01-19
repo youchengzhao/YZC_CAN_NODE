@@ -1,0 +1,13 @@
+..\output\app.o: app.c
+..\output\app.o: app.h
+..\output\app.o: ..\CMSIS\stm32f10x.h
+..\output\app.o: ..\CMSIS\core_cm3.h
+..\output\app.o: D:\install\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\app.o: ..\CMSIS\system_stm32f10x.h
+..\output\app.o: ..\USER\stm32f10x_conf.h
+..\output\app.o: ..\FWlib\inc\stm32f10x_can.h
+..\output\app.o: ..\CMSIS\stm32f10x.h
+..\output\app.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\app.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\app.o: ..\FWlib\inc\stm32f10x_usart.h
+..\output\app.o: ..\FWlib\inc\misc.h
