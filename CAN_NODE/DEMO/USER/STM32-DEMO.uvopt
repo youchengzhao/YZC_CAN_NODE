@@ -241,10 +241,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>17</ColumnNumber>
+      <ColumnNumber>10</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>68</TopLine>
-      <CurrentLine>80</CurrentLine>
+      <TopLine>76</TopLine>
+      <CurrentLine>90</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -291,7 +291,7 @@
       <Focus>0</Focus>
       <ColumnNumber>7</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>105</TopLine>
+      <TopLine>110</TopLine>
       <CurrentLine>120</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\can.c</PathWithFileName>
@@ -339,7 +339,7 @@
       <Focus>0</Focus>
       <ColumnNumber>2</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>56</TopLine>
+      <TopLine>83</TopLine>
       <CurrentLine>93</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\lcd.c</PathWithFileName>
@@ -427,7 +427,7 @@
       <Focus>0</Focus>
       <ColumnNumber>18</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>435</TopLine>
+      <TopLine>439</TopLine>
       <CurrentLine>449</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\FWlib\src\stm32f10x_can.c</PathWithFileName>
@@ -483,7 +483,7 @@
       <Focus>0</Focus>
       <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>168</TopLine>
+      <TopLine>160</TopLine>
       <CurrentLine>161</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\CMSIS\system_stm32f10x.c</PathWithFileName>
